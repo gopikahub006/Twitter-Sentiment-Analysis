@@ -48,7 +48,7 @@ Sentiment Labels:
 - Remove special characters
 - Convert text to lowercase
 - Remove stopwords
-- Apply stemming using Porter Stemmer
+- Apply lemmatization using WordNetLemmatizer
 
 ### 2. Feature Extraction
 
